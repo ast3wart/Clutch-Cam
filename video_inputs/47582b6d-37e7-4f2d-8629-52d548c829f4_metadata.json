@@ -1,0 +1,47 @@
+{
+  "id": "47582b6d-37e7-4f2d-8629-52d548c829f4",
+  "filename": "bnwxnm.mp4",
+  "savedAs": "47582b6d-37e7-4f2d-8629-52d548c829f4.mp4",
+  "size": 9925550,
+  "mimetype": "video/mp4",
+  "uploadedAt": "2025-12-17T01:20:35.513Z",
+  "status": "analyzed",
+  "highlights": [
+    {
+      "timestamp": 1.98,
+      "tags": [],
+      "confidence": 0.85,
+      "startWindow": 0,
+      "endWindow": 4.98
+    },
+    {
+      "timestamp": 4.98,
+      "tags": [],
+      "confidence": 0.85,
+      "startWindow": 1.98,
+      "endWindow": 7.98
+    },
+    {
+      "timestamp": 7.98,
+      "tags": [],
+      "confidence": 0.85,
+      "startWindow": 4.98,
+      "endWindow": 10.98
+    },
+    {
+      "timestamp": 11.05,
+      "tags": [],
+      "confidence": 0.85,
+      "startWindow": 8.05,
+      "endWindow": 14.05
+    },
+    {
+      "timestamp": 14.05,
+      "tags": [],
+      "confidence": 0.85,
+      "startWindow": 11.05,
+      "endWindow": 17.05
+    }
+  ],
+  "analyzedAt": "2025-12-17T01:20:38.259Z"
+}

@@ -1,0 +1,300 @@
+{
+  "id": "4380bcc5-d71c-44de-9127-8af88c2c38cd",
+  "filename": "videoplayback.mp4",
+  "savedAs": "4380bcc5-d71c-44de-9127-8af88c2c38cd.mp4",
+  "size": 12223270,
+  "mimetype": "video/mp4",
+  "uploadedAt": "2025-12-17T01:22:43.617Z",
+  "status": "analyzed",
+  "highlights": [
+    {
+      "timestamp": 0.1,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 0,
+      "endWindow": 3.1
+    },
+    {
+      "timestamp": 7.34,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 4.34,
+      "endWindow": 10.34
+    },
+    {
+      "timestamp": 10.54,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 7.54,
+      "endWindow": 13.54
+    },
+    {
+      "timestamp": 16.45,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 13.45,
+      "endWindow": 19.45
+    },
+    {
+      "timestamp": 19.42,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 16.42,
+      "endWindow": 22.42
+    },
+    {
+      "timestamp": 26.03,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 23.03,
+      "endWindow": 29.03
+    },
+    {
+      "timestamp": 30.03,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 27.03,
+      "endWindow": 33.03
+    },
+    {
+      "timestamp": 33.27,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 30.27,
+      "endWindow": 36.27
+    },
+    {
+      "timestamp": 40.34,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 37.34,
+      "endWindow": 43.34
+    },
+    {
+      "timestamp": 44.11,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 41.11,
+      "endWindow": 47.11
+    },
+    {
+      "timestamp": 47.78,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 44.78,
+      "endWindow": 50.78
+    },
+    {
+      "timestamp": 50.75,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 47.75,
+      "endWindow": 53.75
+    },
+    {
+      "timestamp": 54.35,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 51.35,
+      "endWindow": 57.35
+    },
+    {
+      "timestamp": 58.22,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 55.22,
+      "endWindow": 61.22
+    },
+    {
+      "timestamp": 61.23,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 58.23,
+      "endWindow": 64.23
+    },
+    {
+      "timestamp": 64.2,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 61.2,
+      "endWindow": 67.2
+    },
+    {
+      "timestamp": 68.3,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 65.3,
+      "endWindow": 71.3
+    },
+    {
+      "timestamp": 71.91,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 68.91,
+      "endWindow": 74.91
+    },
+    {
+      "timestamp": 77.94,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 74.94,
+      "endWindow": 80.94
+    },
+    {
+      "timestamp": 80.91,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 77.91,
+      "endWindow": 83.91
+    },
+    {
+      "timestamp": 86.29,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 83.29,
+      "endWindow": 89.29
+    },
+    {
+      "timestamp": 89.26,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 86.26,
+      "endWindow": 92.26
+    },
+    {
+      "timestamp": 93.06,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 90.06,
+      "endWindow": 96.06
+    },
+    {
+      "timestamp": 100.03,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 97.03,
+      "endWindow": 103.03
+    },
+    {
+      "timestamp": 103.74,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 100.74,
+      "endWindow": 106.74
+    },
+    {
+      "timestamp": 106.71,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 103.71,
+      "endWindow": 109.71
+    },
+    {
+      "timestamp": 110.81,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 107.81,
+      "endWindow": 113.81
+    },
+    {
+      "timestamp": 115.22,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 112.22,
+      "endWindow": 118.22
+    },
+    {
+      "timestamp": 118.18,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 115.18,
+      "endWindow": 121.18
+    },
+    {
+      "timestamp": 123.76,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 120.76,
+      "endWindow": 126.76
+    },
+    {
+      "timestamp": 126.76,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 123.76,
+      "endWindow": 129.76
+    },
+    {
+      "timestamp": 131.53,
+      "tags": [
+        "dunk"
+      ],
+      "confidence": 0.85,
+      "startWindow": 128.53,
+      "endWindow": 134.53
+    }
+  ],
+  "analyzedAt": "2025-12-17T01:22:47.430Z"
+}
